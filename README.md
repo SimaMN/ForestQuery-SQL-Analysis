@@ -93,3 +93,7 @@ Based on the analysis, the following recommendations are suggested for ForestQue
 - Focus resources on regions and countries that have seen the largest decreases in forest area.
 - Prioritize communication efforts in regions with the lowest forestation percentages to raise awareness.
 - Allocate personnel to countries that still maintain a high percentage of forest area for conservation efforts.
+
+## License
+
+This project was done as part of the Udacity SQL Nano degree program.
